@@ -1,0 +1,24 @@
+{
+  "name": "backend-youtube",
+  "version": "1.0.0",
+  "description": "this is backend project where i am learning from chai with code",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "homepage": "https://github.com/nirajGithub1550/youtube-project#readme",
+  "bugs": {
+    "url": "https://github.com/nirajGithub1550/youtube-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirajGithub1550/youtube-project.git"
+  },
+  "license": "ISC",
+  "author": "niraj yadav",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
